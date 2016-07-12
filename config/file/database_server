@@ -1,0 +1,61 @@
+
+#Informasi server A
+
+IP_A=localhost
+
+PORT_A=3306
+USER_A=root
+PASSWORD_A=
+
+
+
+#Informasi server B
+
+IP_B=x.x.x.x
+
+PORT_B=xxxxx
+
+USER_B=xxxxx
+
+PASSWORD_B=xxxxxx
+
+
+
+#Informasi server C
+
+IP_C=x.x.x.x
+
+PORT_C=xxxxx
+
+USER_C=xxxxx
+
+PASSWORD_C=xxxxxx
+
+
+
+#Informasi server D
+
+IP_C=localhost
+
+PORT_C=3306
+USER_C=root
+
+PASSWORD_C=
+
+
+#Informasi server D
+
+IP_C=192.168.50.15
+PORT_C=20599
+USER_C=rin
+PASSWORD_C=devdev
+
+LIST_USER=hadi,yudi,rudy,chris,orin,oyin
+
+DB_ADMIN_IP=localhost
+DB_ADMIN_PORT=3306
+DB_ADMIN_USER=root
+DB_ADMIN_PASS=
+DB_ADMIN_DATABASE=database_admin
+DB_ADMIN_TABLE=table_admin
+LIST_ADMIN=abu,aaa,abu,abu,abu,abu,abu
